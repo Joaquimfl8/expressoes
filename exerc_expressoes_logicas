@@ -1,0 +1,15 @@
+A=V, B=F, C=F e D=V:
+
+Exemplo
+1) S = (A v B) ^ ~C
+S = (V v F) ^ ~F
+S = V ^ V
+S = V
+
+Agora é a sua vez!
+2) S = (D v A ^ C) v ~(B v C)
+3) S = ~(A v B)
+4) S = ~(A ^ B)
+5) S = C v ~B ^ (A v ~D)
+
+2) S = (D v A ^ C) v ~(B v C)
