@@ -8,8 +8,19 @@ S = V
 
 Agora é a sua vez!
 2) S = (D v A ^ C) v ~(B v C)
+S= F v ~V
+S= F
+
 3) S = ~(A v B)
+S= ~V
+S= F
+
 4) S = ~(A ^ B)
+S= ~F
+S= V 
+
 5) S = C v ~B ^ (A v ~D)
+S= V ^ V
+S= V
 
 2) S = (D v A ^ C) v ~(B v C)
